@@ -1,0 +1,2 @@
+GT4500,10,1,10,0 # biztosan meghibásodik az első tár
+TORPEDO,SINGLE

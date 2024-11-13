@@ -1,0 +1,2 @@
+GT4500,10,1,10,0 #az első tár biztosan meghibásodik de a másodikból sikeresen tüzel
+TORPEDO,ALL
